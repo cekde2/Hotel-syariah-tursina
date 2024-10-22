@@ -1,0 +1,2 @@
+# Hotel-syariah-tursina
+web
